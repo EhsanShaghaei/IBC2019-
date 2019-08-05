@@ -1,6 +1,6 @@
 #Innopolis University Bootcamp 2019
 #@author : Ehsan Shaghaei     github : https://github.com/Ehsan2754/IBC2019/
-#Sesstion1
+#Session1
 #Task 3
 #Labratory 104
 #Terms Of Task:
